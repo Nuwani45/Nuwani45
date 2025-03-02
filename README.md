@@ -1,4 +1,4 @@
-![Banner]("C:\Users\thusi\Downloads\github-header-image.png")
+![Banner]("github-header-image.png)
 # 💫 About Me:
 🔭 I’m currently working on simple java coding projects.<br>👯 I’m looking to collaborate on bigger and complex projects to deepen my knowledge.<br>🤝 I’m looking for help with Object Oriented Programming.<br>🌱 I’m currently learning the oop in java and python.<br>💬 Ask me about math, or simple java related questions.<br>⚡ Fun fact is I love to code, I read books and love to make loads of friends.
 
