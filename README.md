@@ -2,6 +2,7 @@
 ## About Me
 
 Fast Learner | Trainee Full Stack Developer | Programmer
+
 🔭 Currently exploring **Java development and HTML** through simple coding projects.  
 👯 Looking to collaborate on **larger and more complex projects** to expand my skills.  
 🤝 Seeking guidance in mastering **Object-Oriented Programming (OOP)**.  
