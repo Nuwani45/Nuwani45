@@ -1,6 +1,7 @@
 ![Banner](https://github.com/Nuwani45/Nuwani45/blob/main/header%20banner.png)
 ## About Me
 
+Fast Learner | Trainee Full Stack Developer | Programmer
 🔭 Currently exploring **Java development and HTML** through simple coding projects.  
 👯 Looking to collaborate on **larger and more complex projects** to expand my skills.  
 🤝 Seeking guidance in mastering **Object-Oriented Programming (OOP)**.  
@@ -27,7 +28,7 @@
 
 
 ## 🌐 Connect with Me:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nuwanilawanya@hotmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuwani-lawanya-479a64353)   
+<button>[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nuwanilawanya@hotmail.com)</button> <button>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuwani-lawanya-479a64353)</button>
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
